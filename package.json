@@ -21,7 +21,7 @@
     "lodash": "^4.17.15",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.5",
-    "parse-link-header": "^1.0.1",
+    "parse-link-header": "^2.0.0",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.3.0",
